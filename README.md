@@ -14,11 +14,48 @@ I'm Erik Lenzmann, a passionate full-stack developer with a touch of love for ba
 
 - 🔧 Technologies I enjoy working with include JavaScript, Node.js, React, and React Native. I'm always eager to explore new tools and methodologies to improve my stack.
 
+- ⚙️ Mod creator for [Factorio](https://mods.factorio.com/user/emirate.), love giving the community mods to enhance their gaming experience.
+
 ### Connect with me
 
 - 🔗 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/erik-lenzmann/) to see more details about me!
 
 - 😉 Don't forget to explore my GitHub to discover all my projects.
+
+
+### Languages
+<p align="left">
+<img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
+<!-- 
+<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
+-->
+</p>
+
+### Frontend development
+<p align="left">
+<img src="https://img.shields.io/badge/angular-E23237?style=for-the-badge&logo=angular&logoColor=black">
+<img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/react%20native-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
+</p>
+
+### Backend development
+<p align="left">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express-f5f5f5?style=for-the-badge&logo=express&logoColor=black">
+<img src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black">
+<img src="https://img.shields.io/badge/mongodb-339933?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+### Others
+<p align="left">
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/mongoose-339933?style=for-the-badge&logo=mongoose&logoColor=white">
+<img src="https://img.shields.io/badge/github-e6e6e6?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
+</p>
+
 
 
 ### Stats
