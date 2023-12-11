@@ -34,9 +34,10 @@ I'm Erik Lenzmann, a passionate full-stack developer with a touch of love for ba
 
 ### Frontend development
 <p align="left">
-<img src="https://img.shields.io/badge/angular-E23237?style=for-the-badge&logo=angular&logoColor=black">
 <img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
 <img src="https://img.shields.io/badge/react%20native-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/angular-E23237?style=for-the-badge&logo=angular&logoColor=black">
 </p>
 
 ### Backend development
@@ -50,8 +51,9 @@ I'm Erik Lenzmann, a passionate full-stack developer with a touch of love for ba
 
 ### Others
 <p align="left">
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
 <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/mongoose-339933?style=for-the-badge&logo=mongoose&logoColor=white">
 <img src="https://img.shields.io/badge/github-e6e6e6?style=for-the-badge&logo=github&logoColor=black">
 <img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
 </p>
