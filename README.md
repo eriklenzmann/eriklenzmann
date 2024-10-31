@@ -1,8 +1,8 @@
 ### Hello there 🖐️
 
-I'm Erik Lenzmann, a passionate full-stack developer with a touch of love for backend development.
+I'm Erik Lenzmann, a passionate Full-Stack Developer with a touch of love for backend development.
 
-🎓 Currently studing IT-Systems Engineering at the Hasso-Plattner-Institute
+🎓 Currently studying IT-Systems Engineering at the Hasso-Plattner-Institute.
 
 🚙 Worked on [EVAPP](https://github.com/eriklenzmann/EVAPP) a React Native carpooling app for sharing journeys and splitting costs.
 
@@ -12,7 +12,7 @@ I'm Erik Lenzmann, a passionate full-stack developer with a touch of love for ba
 
 - 🔧 Technologies I enjoy working with include TypeSCript, Node.js, React, React Native and Nextjs.
 
-- 🎓 Graduated from Codeworks "Software Engineering Immersive" bootcamp
+- 🎓 Graduated from Codeworks "Software Engineering Immersive" bootcamp.
 
 - ⚙️ Mod creator for [Factorio](https://mods.factorio.com/user/emirate.), love giving the community mods to enhance their gaming experience.
 
@@ -25,26 +25,25 @@ I'm Erik Lenzmann, a passionate full-stack developer with a touch of love for ba
 
 ### Languages
 <p align="left">
-<img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
-<!-- 
+<img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
--->
 </p>
 
 ### Frontend development
 <p align="left">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
 <img src="https://img.shields.io/badge/react%20native-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
 <img src="https://img.shields.io/badge/angular-E23237?style=for-the-badge&logo=angular&logoColor=black">
 </p>
 
 ### Backend development
 <p align="left">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/express-f5f5f5?style=for-the-badge&logo=express&logoColor=black">
 <img src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black">
+<img src="https://img.shields.io/badge/express-f5f5f5?style=for-the-badge&logo=express&logoColor=black">
 <img src="https://img.shields.io/badge/mongodb-339933?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
