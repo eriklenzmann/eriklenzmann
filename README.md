@@ -10,7 +10,7 @@ I'm Erik Lenzmann, a passionate Full-Stack Developer with a touch of love for ba
 
 - 🌐 Passionate about creating impactful software solutions that not only meet technical requirements but also enhance user experiences and make a difference in people's lives.
 
-- 🔧 Technologies I enjoy working with include TypeScript, Node.js, React, React Native and Nextjs.
+- 🔧 Technologies I enjoy working with include TypeScript, Node.js, React, React Native and Next.js.
 
 - 🎓 Graduated from Codeworks "Software Engineering Immersive" bootcamp.
 
