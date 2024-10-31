@@ -2,17 +2,17 @@
 
 I'm Erik Lenzmann, a passionate full-stack developer with a touch of love for backend development.
 
-🚙 I'm currently working on [EVAPP](https://github.com/eriklenzmann/EVAPP) a React Native carpooling app for sharing journeys and splitting costs.
+🎓 Currently studing IT-Systems Engineering at the Hasso-Plattner-Institute
 
-🌱 When I'm not lost in lines of code, you'll see me out with my friends most probably playing board games 🎲.
+🚙 Worked on [EVAPP](https://github.com/eriklenzmann/EVAPP) a React Native carpooling app for sharing journeys and splitting costs.
 
 ### About me
 
 - 🌐 Passionate about creating impactful software solutions that not only meet technical requirements but also enhance user experiences and make a difference in people's lives.
 
-- 🔧 Technologies I enjoy working with include JavaScript, Node.js, React, and React Native. I'm always eager to explore new tools and methodologies to improve my stack.
+- 🔧 Technologies I enjoy working with include TypeSCript, Node.js, React, React Native and Nextjs.
 
-- 🎓 (Soon) a proud graduate of the Codeworks "Software Engineering Immersive" bootcamp, where I gained extensive coding experience.
+- 🎓 Graduated from Codeworks "Software Engineering Immersive" bootcamp
 
 - ⚙️ Mod creator for [Factorio](https://mods.factorio.com/user/emirate.), love giving the community mods to enhance their gaming experience.
 
@@ -20,7 +20,7 @@ I'm Erik Lenzmann, a passionate full-stack developer with a touch of love for ba
 
 - 🔗 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/erik-lenzmann/) to see more details about me!
 
-- 😉 Don't forget to explore my GitHub to discover all my projects.
+- 👀 Feel free to explore my GitHub to discover all my projects.
 
 
 ### Languages
